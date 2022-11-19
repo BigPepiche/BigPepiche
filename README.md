@@ -1,7 +1,6 @@
 ![MasterHead](https://i1.sndcdn.com/visuals-000272847459-CpXCO8-original.jpg)
 <h1 align="center">Hi 👋, I'm Reggie</h1>
 <h3 align="center">A computer sciences student from Canada</h3>
-<img align="right" alt="Bedroom" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/945094571616867748/680E4979CC75A2310664E0883F3F3FC6CBECA3BE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigpepiche&label=Profile%20views&color=0e75b6&style=flat" alt="bigpepiche" /> </p>
 
