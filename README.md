@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Star Shooter**
 
-- 🌱 I’m currently learning **Html and Css basics**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **reggiehr_30@hotmail.com**
 
